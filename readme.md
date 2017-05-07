@@ -1,4 +1,4 @@
- # Basic config to run web applications with Docker
+ # Basic config to fast run php7 applications with Docker
 
  Create your project in root context (e.g. laravel new myApp)
 
