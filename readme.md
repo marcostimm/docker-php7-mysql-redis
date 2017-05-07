@@ -1,6 +1,6 @@
  # Basic config to run web applications with Docker
 
- Create your project in root context (laravel new myApp)
+ Create your project in root context (e.g. laravel new myApp)
 
 Will be available with this setup:
 
