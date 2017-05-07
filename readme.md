@@ -13,3 +13,8 @@ Will be available with this setup:
  ```sh
 $ docker-compose up -d
 ```
+
+## Be happy
+```
+http://localhost:8080/
+```
